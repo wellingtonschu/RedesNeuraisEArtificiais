@@ -2,16 +2,7 @@ package Perceptron;
 
 import java.util.Random;
 
-/**
- * Algoritmo implementado tendo como base o pseudocodigo apresentado no
- * livro "Redes Neurais Artificiais para engenharia e ciencias aplicadas"
- * do autor Ivan Nunes da Silva.
- * 
- * Capitulo 3.4.
- * 
- * @author Augusto Branquinho
- */
-public class PerceptronTraining {
+public class PerceptronTreinamento {
 
 	public static void main(String[] args) {
 		Random random = new Random(System.currentTimeMillis());

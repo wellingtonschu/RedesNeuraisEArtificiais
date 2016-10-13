@@ -1,16 +1,6 @@
 package Adaline;
 
-
-/**
- * Algoritmo implementado tendo como base o pseudocodigo apresentado no
- * livro "Redes Neurais Artificiais para engenharia e ciencias aplicadas"
- * do autor Ivan Nunes da Silva.
- * 
- * Capitulo 4.3.
- * 
- * @author Augusto Branquinho
- */
-public class AdalineOperation {
+public class AdalineOperacao {
 
 	public static void main(String[] args) {
 		double[] pesos = { 0.01222577719907951, 0.004762759645191947, -0.009727417287218335, 0.0020898259147021994 };

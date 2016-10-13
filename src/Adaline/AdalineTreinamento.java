@@ -2,19 +2,10 @@ package Adaline;
 
 import java.util.Random;
 
-/**
- * Algoritmo implementado tendo como base o pseudocodigo apresentado no
- * livro "Redes Neurais Artificiais para engenharia e ciencias aplicadas"
- * do autor Ivan Nunes da Silva.
- * 
- * Capitulo 4.3.
- * 
- * @author Augusto Branquinho
- */
-public class AdalineTraining {
+public class AdalineTreinamento {
 
 	public static void main(String[] args) {
-		AdalineTraining treinamento = new AdalineTraining();
+		AdalineTreinamento treinamento = new AdalineTreinamento();
 
 		double[][] amostras = new double[][] {
 				{-1.0, -1.0, -1.0, -1.0 },

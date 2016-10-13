@@ -1,14 +1,5 @@
 package Adaline;
 
-/**
- * Algoritmo implementado tendo como base o pseudocodigo apresentado no
- * livro "Redes Neurais Artificiais para engenharia e ciencias aplicadas"
- * do autor Ivan Nunes da Silva.
- * 
- * Capitulo 4.3.
- * 
- * @author Augusto Branquinho
- */
 public class Eqm {
 
 	public static double calculateEQM(double[][] amostras, double[] saidas, double[] pesos) {

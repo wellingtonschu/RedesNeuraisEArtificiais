@@ -1,15 +1,6 @@
 package Perceptron;
 
-/**
- * Algoritmo implementado tendo como base o pseudocodigo apresentado no
- * livro "Redes Neurais Artificiais para engenharia e ciencias aplicadas"
- * do autor Ivan Nunes da Silva.
- * 
- * Capitulo 3.4.
- * 
- * @author Augusto Branquinho
- */
-public class PerceptronOperation {
+public class PerceptronOperacao {
 
 	public static void main(String[] args) {
 		// 1. Amostra a ser classificada (Exemplo) (x).
